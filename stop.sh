@@ -1,0 +1,1 @@
+docker rm -f zimbra_calendar_exporter
